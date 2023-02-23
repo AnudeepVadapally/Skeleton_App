@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FQU5BEwFTasGHbll+GlzJxMuvH2+WBMoi7HQ8sO6XG0WOK2b/0g1U64kaY5Dz9dHYtT/BLcALibOe+eDOFlBQA==",
+  "dgSpecHash": "bweHqOK1s8RuR7sFfC2hPNgDqqbOMQmI0YdTG0azD2r4tyN6ZLCDPChpc2H4dtnTJbsIIS+KWaWkkBdKfkWsmQ==",
   "success": true,
   "projectFilePath": "/workspace/Skeleton_App/FirstApp/FirstApp.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "/home/gitpod/.nuget/packages/microsoft.extensions.fileproviders.abstractions/7.0.0/microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
     "/home/gitpod/.nuget/packages/microsoft.extensions.fileproviders.physical/7.0.0/microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
     "/home/gitpod/.nuget/packages/microsoft.extensions.filesystemglobbing/7.0.0/microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
+    "/home/gitpod/.nuget/packages/microsoft.extensions.http/7.0.0/microsoft.extensions.http.7.0.0.nupkg.sha512",
     "/home/gitpod/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "/home/gitpod/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
     "/home/gitpod/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
